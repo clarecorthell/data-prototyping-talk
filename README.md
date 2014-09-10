@@ -1,12 +1,9 @@
-**Prototyping in the Data World - Data Scripting Skills // [Hackbright Academy]()**
-
 Follow me on twitter [@clarecorthell](https://twitter.com/clarecorthell)!
 
-## Data Scripting with Python (Slides & Resources)
+## Prototyping in the Data World - Data Scripting Skills // @ Hackbright Academy (Slides & Resources)
 
-Vimeo _**link coming**_
-
-[Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)
+* Vimeo _**link coming**_
+* [Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)
 
 ## Talk Notes
 
