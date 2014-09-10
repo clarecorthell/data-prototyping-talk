@@ -3,18 +3,13 @@ Follow me on twitter [@clarecorthell](https://twitter.com/clarecorthell)!
 September 9 2014 @ Hackbright Academy, SF
 ## Prototyping in the Data World - Data Scripting Skills
 
-* [Video](http://vimeo.com/105781767)
-* [Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)
-
-## Talk Notes
-
 ### Tools
 * [numpy](http://www.sam.math.ethz.ch/~raoulb/teaching/PythonTutorial/intro_numpy.html) _multi-dimensional container of data_
 * [pandas](http://nbviewer.ipython.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb) _data structures analysis tools_
 * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) _python plotting library_
 * [iPython](http://www.reddit.com/r/Python/comments/1q9tq7/what_is_the_big_deal_about_ipython_notebooks/) _browser-based code notebook / IDE (run blocks of code, not the whole program)_
 
-### Notes accompanying the talk ([slides](http://www.slideshare.net/ClareCorthell/hackbright-talk))
+### Notes accompanying the talk [[Video](http://vimeo.com/105781767) & [Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)]
 
 All python code for this talk was run in the browser-based iPython interpreter
 
