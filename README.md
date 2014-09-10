@@ -87,4 +87,4 @@ compare the shape of the two DataTables to see how many companies (rows) have mo
 
 * [The Open Source Data Science Masters](http://datasciencemasters.org/) - A curated curriculum of open source resources to get you working with and understanding data
 * [pandas cookbook](http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/Chapter%201%20-%20Reading%20from%20a%20CSV.ipynb) - great beginning resource from [Julia Evans](https://twitter.com/b0rk)
-* [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
+* [Python for Data Analysis / Book](http://amzn.to/Q2pI5I) - the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python (with numpy, pandas, and matplotlib)
