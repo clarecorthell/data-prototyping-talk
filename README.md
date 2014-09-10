@@ -3,7 +3,7 @@ Follow me on twitter [@clarecorthell](https://twitter.com/clarecorthell)!
 September 9 2014 @ Hackbright Academy, SF
 ## Prototyping in the Data World - Data Scripting Skills
 
-* Vimeo _**link coming**_
+* [Video](http://vimeo.com/105781767)
 * [Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)
 
 ## Talk Notes
@@ -81,7 +81,7 @@ mobile_df.shape
 ```
 compare the shape of the two DataTables to see how many companies (rows) have mobile app data to see a rough proportion
 
-**For more context, see the [video (coming soon)]() & [slides](http://www.slideshare.net/ClareCorthell/hackbright-talk))**
+**For more context, see the [video](http://vimeo.com/105781767) & [slides](http://www.slideshare.net/ClareCorthell/hackbright-talk))**
 
 ### Great Resources for Getting Started
 
