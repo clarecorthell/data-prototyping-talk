@@ -1,6 +1,7 @@
 Follow me on twitter [@clarecorthell](https://twitter.com/clarecorthell)!
 
-## Prototyping in the Data World - Data Scripting Skills // @ Hackbright Academy (Slides & Resources)
+September 9 2014 @ Hackbright Academy, SF
+## Prototyping in the Data World - Data Scripting Skills
 
 * Vimeo _**link coming**_
 * [Slides](http://www.slideshare.net/ClareCorthell/hackbright-talk)
